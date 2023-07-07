@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1688754281 source:c:\users\hriho\onedrive\Робочий стіл\pract7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Windows.h>
+
